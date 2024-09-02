@@ -1,0 +1,24 @@
+.childDiv{
+    margin-top: 300px;
+    padding-left: 10px;
+
+}
+.login{
+    padding: 10px;
+}
+   
+.loginBtn{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(77, 185, 77);
+    
+}
+.signupBtn{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(85, 85, 199);
+    
+}
+.body{
+    background-color: aquamarine;
+}
